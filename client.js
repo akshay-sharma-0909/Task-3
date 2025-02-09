@@ -1,4 +1,4 @@
-// script.js
+
 
 // Buttons
 const boldBtn = document.getElementById('boldBtn');
