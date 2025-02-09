@@ -26,5 +26,5 @@ HTML ,CSS JAVASCRIPT ,NODE.JS
 
 #output
 
-![Image](https://github.com/user-attachments/assets/3502a864-0224-4ff3-b01e-02037bf029fb)
 
+![Image](https://github.com/user-attachments/assets/3502a864-0224-4ff3-b01e-02037bf029fb)
